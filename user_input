@@ -1,0 +1,6 @@
+name,age=input("your name and age ?").split(" ")
+print("Welcome"+" "+name+ " Your age is :"+" "+age)
+n1=int(input("number 1 ?")) #convert str to float
+n2=float(input("number 2 ?"))
+total=n1+n2
+print("total is "+str(total))   #final ans float 
